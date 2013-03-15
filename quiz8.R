@@ -1,4 +1,4 @@
-#x
+#This is the code for the week 8 quiz
 
 set.seed(3343)
 pValues <- rep(NA, 100)
