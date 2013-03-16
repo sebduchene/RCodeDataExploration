@@ -1,3 +1,6 @@
+
+# Can be posted in blog Mar 16 ???
+
 #Analisis desplazamientos
 setwd("~/Desktop/blog/")
 desp <- read.table("desplazamientoExpulsionAS.csv", sep=",", head=T)
